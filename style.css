@@ -191,6 +191,7 @@ a {
 .buff__select span {
     width: 100%;
     height: max-content;
+    padding: 0 20px;
     position: absolute;
     margin: auto;
 }
