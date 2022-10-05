@@ -207,6 +207,14 @@ a {
     display: none;
 }
 
+.buff__wrapper::-moz-scrollbar {
+    display: none;
+}
+
+.buff__wrapper::-ms-scrollbar {
+    display: none;
+}
+
 .buff__wrapper--active {
     display: block;
 }
