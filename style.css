@@ -201,6 +201,7 @@ a {
     position: absolute;
     display: none;
     overflow-y: auto;
+    scrollbar-width: none;
 }
 
 .buff__wrapper::-webkit-scrollbar {
