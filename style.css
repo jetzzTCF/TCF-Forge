@@ -403,3 +403,7 @@ a {
     padding: 40px;
     opacity: 0.5;
 }
+
+.mallbery-caa {
+    display: none !important;
+}
