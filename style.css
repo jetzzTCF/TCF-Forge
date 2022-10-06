@@ -416,8 +416,9 @@ a {
     .req__item-count {
         font-size: 0.7rem;
     }
-    
-    .buff__item-text {
+
+    .buff__item-text span {
         font-size: 0.6rem;
+        padding: 0px 10px;
     }
 }
