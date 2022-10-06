@@ -407,3 +407,17 @@ a {
 .mallbery-caa {
     display: none !important;
 }
+
+@media screen and (min-width: 800px) {
+    .req {
+        padding: 20px 20px;
+    }
+    
+    .req__item-count {
+        font-size: 0.7rem;
+    }
+    
+    .buff__item-text {
+        font-size: 0.5rem;
+    }
+}
