@@ -408,7 +408,7 @@ a {
     display: none !important;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-height: 800px) {
     .req {
         padding: 20px 20px;
     }
